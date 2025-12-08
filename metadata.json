@@ -1,0 +1,8 @@
+{
+  "name": "FridgeGenie",
+  "description": "A smart culinary assistant that identifies ingredients from your fridge photos and suggests recipes with dietary filters and hands-free cooking mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
